@@ -27,7 +27,7 @@ body {
 }
 
 .card-services a {
-    display: none;
+    display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
 }
