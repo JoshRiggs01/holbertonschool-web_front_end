@@ -114,7 +114,7 @@ ul.row {
 
 [class*="col-"] {
     float: left;
-    padding: 0.05rem;
+    padding: 0.5rem;
 }
 
 .row::after {
