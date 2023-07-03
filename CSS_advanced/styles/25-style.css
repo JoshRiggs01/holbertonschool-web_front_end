@@ -55,7 +55,7 @@ a:link {
 .button:hover {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
-    background: var(--color-primary);
+    background: var(--button-hover-background);
 }
 
 a:visited {
