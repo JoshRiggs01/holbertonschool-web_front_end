@@ -22,7 +22,7 @@ body {
     color: var(--color-primary);
 }
 
-.card-services .car-title {
+.card-services .card-title {
     margin: 0;
 }
 
